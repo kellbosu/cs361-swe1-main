@@ -1,4 +1,6 @@
-from user_info import user1
+import json
+import time
+
 
 def about():
     print("""
@@ -14,7 +16,7 @@ def about():
                  """)
 
 def commandlist():
-    cmd_list = """COMMANDS:
+    cmd_list = """\nCOMMANDS:
             ENTER: 'about' to learn more about this app.
             ENTER: 'program' to start a new program.
             ENTER: 'update' to change your maxes.
@@ -22,60 +24,57 @@ def commandlist():
             ENTER: 'quit' to close the program\n"""
     print(cmd_list)
 
-def update_bench():
+# Used to gain bench max
+def update_bench(user):
     try:
-        user1['bench_max'] = int(input("Enter your current bench press max? "))
+        user['bench'] = int(input("Enter your current bench max: "))
     except ValueError:
         print("Silly tinkerer, please enter a valid integer.")
 
-def update_squat():
+# Used to gain squat max
+def update_squat(user):
     try:
-        user1['squat_max'] = int(input("Enter your current squat max? "))
+        user['squat'] = int(input("Enter your current squat max: "))
     except ValueError:
         print("Silly tinkerer, please enter a valid integer.")
 
-def update_deadlift():
+# Used to gain deadlift max
+def update_deadlift(user):
     try:
-        user1['deadlift_max'] = int(input("Enter your current deadlift max? "))
+        user['deadlift'] = int(input("Enter your current deadlift max: "))
     except ValueError:
         print("Silly tinkerer, please enter a valid integer.")
 
-def update_maxes():
-    update_bench()
-    update_squat()
-    update_deadlift()
+# Finds active user in data.json, and updates max lifts
+def update_maxes(active_user):
+    with open('data.json', 'r') as file:
+        data = json.load(file)
+        for user in data["users"]:
+            if user["username"] == active_user:
+                update_bench(user)
+                update_squat(user)
+                update_deadlift(user)
+                with open("data.json", "w") as file:
+                    json.dump(data, file, indent=4)
 
-def program_goals():
-    print("""
-            What do you want to achieve from you program?
-            Enter 1 if: you want to tone up.
-            Enter 2 if: you want to get jacked.
-            Enter 3 if: you want to strike fear into the hearts of your enemies.
+
+def view_stats(active_user):
+
+    with open('data.json', 'r') as file:
+        data = json.load(file)
+
+        for user in data["users"]:
+            if user["username"] == active_user:
+                bench_stat = user["bench"]
+                squat_stat = user["squat"]
+                deadlift_stat = user["deadlift"]
+                program_stat = user["program"]
+                print(f"""
+            {active_user} STATS:\n
+            YOUR CURRENT BENCH MAX IS: {bench_stat}.
+            YOUR CURRENT SQUAT MAX IS: {squat_stat}.
+            YOUR CURRENT DEAD MAX IS:  {deadlift_stat}.
+            YOUR CURRENT PROGRAM IS:  {program_stat}.\n
                 """)
-    chosenProg = input("Choose your program: ").strip().lower()
-    if chosenProg == "1":
-        user1['current_program'] = 'Skinny Jeans'
-        print("            You're on the 'Skinny Jeans' program.")
-    elif chosenProg == "2":
-        user1['current_program'] = 'Thunder Pump'
-        print("            You're on the 'Thunder Pump' program! Vascularity is your middle name.")
-    elif chosenProg == "3":
-        user1['current_program'] = 'Destructo De Mundos'
-        print("            You're on the 'Destructo De Mundos' program! Say your prayers.")
+                time.sleep(1)
 
-def view_stats():
-    print("\n")
-    print(f"            YOUR CURRENT BENCH MAX IS: {user1['bench_max']}.")
-    print(f"            YOUR CURRENT SQUAT MAX IS: {user1['squat_max']}.")
-    print(f"            YOUR CURRENT DEAD MAX IS:  {user1['deadlift_max']}.")
-    print(f"            YOUR CURRENT PROGRAM IS:  {user1['current_program']}.")
-    print("\n")
-
-def skinny_jeans():
-    None
-
-def thunder_pump():
-    None
-
-def destructo():
-    None

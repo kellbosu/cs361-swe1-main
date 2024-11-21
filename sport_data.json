@@ -1,0 +1,646 @@
+{
+    "data": {
+        "sport": "basketball",
+        "team": "milwaukee bucks",
+        "generate": "complete",
+        "fact": "The team has won 2 NBA Championships."
+    },
+    "sport": {
+        "hockey": {
+            "teams": {
+                "anaheim ducks": [
+                    "The Anaheim Ducks were founded in 1993.",
+                    "The team won the Stanley Cup in 2007.",
+                    "The Anaheim Ducks are based in Anaheim, California."
+                ],
+                "arizona coyotes": [
+                    "The Arizona Coyotes were founded in 1972 as the Winnipeg Jets.",
+                    "The team relocated to Arizona in 1996.",
+                    "The Arizona Coyotes are known for their Howling Coyote logo."
+                ],
+                "boston bruins": [
+                    "The Boston Bruins are an Original Six team founded in 1924.",
+                    "The team has won 6 Stanley Cups.",
+                    "The Boston Bruins play at TD Garden in Boston."
+                ],
+                "buffalo sabres": [
+                    "The Buffalo Sabres were founded in 1970.",
+                    "The team is known for their blue and gold color scheme.",
+                    "The Buffalo Sabres play at KeyBank Center."
+                ],
+                "calgary flames": [
+                    "The Calgary Flames were founded in 1972 as the Atlanta Flames.",
+                    "The team relocated to Calgary in 1980.",
+                    "The Calgary Flames won the Stanley Cup in 1989."
+                ],
+                "carolina hurricanes": [
+                    "The Carolina Hurricanes were founded in 1971 as the Hartford Whalers.",
+                    "The team relocated to Carolina in 1997.",
+                    "The Carolina Hurricanes won the Stanley Cup in 2006."
+                ],
+                "chicago blackhawks": [
+                    "The Chicago Blackhawks are an Original Six team founded in 1926.",
+                    "The team has won 6 Stanley Cups.",
+                    "The Chicago Blackhawks play at the United Center in Chicago."
+                ],
+                "colorado avalanche": [
+                    "The Colorado Avalanche were founded in 1972 as the Quebec Nordiques.",
+                    "The team relocated to Colorado in 1995.",
+                    "The Colorado Avalanche won the Stanley Cup in 1996 and 2001."
+                ],
+                "columbus blue jackets": [
+                    "The Columbus Blue Jackets were founded in 2000.",
+                    "The team is named after Ohio's Civil War history.",
+                    "The Columbus Blue Jackets play at Nationwide Arena."
+                ],
+                "dallas stars": [
+                    "The Dallas Stars were founded in 1967 as the Minnesota North Stars.",
+                    "The team relocated to Dallas in 1993.",
+                    "The Dallas Stars won the Stanley Cup in 1999."
+                ],
+                "detroit red wings": [
+                    "The Detroit Red Wings are an Original Six team founded in 1926.",
+                    "The team has won 11 Stanley Cups.",
+                    "The Detroit Red Wings are known for their red and white color scheme."
+                ],
+                "edmonton oilers": [
+                    "The Edmonton Oilers were founded in 1971 as part of the WHA.",
+                    "The team won 5 Stanley Cups in the 1980s.",
+                    "The Edmonton Oilers are known for legends like Wayne Gretzky."
+                ],
+                "florida panthers": [
+                    "The Florida Panthers were founded in 1993.",
+                    "The team reached the Stanley Cup Final in 1996.",
+                    "The Florida Panthers are based in Sunrise, Florida."
+                ],
+                "los angeles kings": [
+                    "The Los Angeles Kings were founded in 1967.",
+                    "The team won the Stanley Cup in 2012 and 2014.",
+                    "The Los Angeles Kings play at Crypto.com Arena in Los Angeles."
+                ],
+                "minnesota wild": [
+                    "The Minnesota Wild were founded in 2000.",
+                    "The team is based in Saint Paul, Minnesota.",
+                    "The Minnesota Wild are known for their green and red color scheme."
+                ],
+                "montreal canadiens": [
+                    "The Montreal Canadiens were founded in 1909, making them the oldest team in the NHL.",
+                    "The team has won a record 24 Stanley Cups.",
+                    "The Montreal Canadiens play at Bell Centre in Montreal."
+                ],
+                "nashville predators": [
+                    "The Nashville Predators were founded in 1998.",
+                    "The team reached the Stanley Cup Final in 2017.",
+                    "The Nashville Predators are known for their saber-toothed tiger logo."
+                ],
+                "new jersey devils": [
+                    "The New Jersey Devils were founded in 1974 as the Kansas City Scouts.",
+                    "The team relocated to New Jersey in 1982.",
+                    "The New Jersey Devils have won 3 Stanley Cups."
+                ],
+                "new york islanders": [
+                    "The New York Islanders were founded in 1972.",
+                    "The team won 4 consecutive Stanley Cups from 1980 to 1983.",
+                    "The New York Islanders play at UBS Arena."
+                ],
+                "new york rangers": [
+                    "The New York Rangers are an Original Six team founded in 1926.",
+                    "The team has won 4 Stanley Cups.",
+                    "The New York Rangers are based at Madison Square Garden."
+                ],
+                "ottawa senators": [
+                    "The Ottawa Senators were founded in 1992.",
+                    "The team reached the Stanley Cup Final in 2007.",
+                    "The Ottawa Senators are based in Ottawa, Ontario."
+                ],
+                "philadelphia flyers": [
+                    "The Philadelphia Flyers were founded in 1967.",
+                    "The team won the Stanley Cup in 1974 and 1975.",
+                    "The Philadelphia Flyers are known for the Broad Street Bullies era."
+                ],
+                "pittsburgh penguins": [
+                    "The Pittsburgh Penguins were founded in 1967.",
+                    "The team has won 5 Stanley Cups.",
+                    "The Pittsburgh Penguins are known for stars like Mario Lemieux and Sidney Crosby."
+                ],
+                "san jose sharks": [
+                    "The San Jose Sharks were founded in 1991.",
+                    "The team is known for their teal and black color scheme.",
+                    "The San Jose Sharks play at SAP Center."
+                ],
+                "seattle kraken": [
+                    "The Seattle Kraken were founded in 2021.",
+                    "The team is the first expansion team since the Vegas Golden Knights.",
+                    "The Seattle Kraken play at Climate Pledge Arena."
+                ],
+                "st. louis blues": [
+                    "The St. Louis Blues were founded in 1967.",
+                    "The team won their first Stanley Cup in 2019.",
+                    "The St. Louis Blues are known for the Blue Note logo."
+                ],
+                "tampa bay lightning": [
+                    "The Tampa Bay Lightning were founded in 1992.",
+                    "The team has won 3 Stanley Cups (2004, 2020, and 2021).",
+                    "The Tampa Bay Lightning are known as the Bolts."
+                ],
+                "toronto maple leafs": [
+                    "The Toronto Maple Leafs are an Original Six team founded in 1917.",
+                    "The team has won 13 Stanley Cups.",
+                    "The Toronto Maple Leafs play at Scotiabank Arena in Toronto."
+                ],
+                "vancouver canucks": [
+                    "The Vancouver Canucks were founded in 1970.",
+                    "The team has reached the Stanley Cup Final three times.",
+                    "The Vancouver Canucks are known for their blue, green, and white colors."
+                ],
+                "vegas golden knights": [
+                    "The Vegas Golden Knights were founded in 2017.",
+                    "The team reached the Stanley Cup Final in their first season.",
+                    "The Vegas Golden Knights are based in Las Vegas, Nevada."
+                ],
+                "washington capitals": [
+                    "The Washington Capitals were founded in 1974.",
+                    "The team won their first Stanley Cup in 2018.",
+                    "The Washington Capitals are known for stars like Alexander Ovechkin."
+                ],
+                "winnipeg jets": [
+                    "The Winnipeg Jets were founded in 1999 as the Atlanta Thrashers.",
+                    "The team relocated to Winnipeg in 2011.",
+                    "The Winnipeg Jets are known for their blue and white color scheme."
+                ]
+            }
+        },
+        "football": {
+            "teams": {
+                "arizona cardinals": [
+                    "The Arizona Cardinals were founded in 1898.",
+                    "The team is one of the oldest franchises in the NFL.",
+                    "The Arizona Cardinals play at State Farm Stadium."
+                ],
+                "atlanta falcons": [
+                    "The Atlanta Falcons were founded in 1965.",
+                    "The team reached the Super Bowl twice, in 1998 and 2016.",
+                    "The Atlanta Falcons play at Mercedes-Benz Stadium."
+                ],
+                "baltimore ravens": [
+                    "The Baltimore Ravens were established in 1996.",
+                    "The team has won two Super Bowls (2000, 2012).",
+                    "The Baltimore Ravens play at M&T Bank Stadium."
+                ],
+                "buffalo bills": [
+                    "The Buffalo Bills were founded in 1960.",
+                    "The team appeared in four consecutive Super Bowls from 1990 to 1993.",
+                    "The Buffalo Bills play at Highmark Stadium."
+                ],
+                "carolina panthers": [
+                    "The Carolina Panthers were founded in 1993.",
+                    "The team reached the Super Bowl twice, in 2003 and 2015.",
+                    "The Carolina Panthers play at Bank of America Stadium."
+                ],
+                "chicago bears": [
+                    "The Chicago Bears were founded in 1919.",
+                    "The team has won 9 NFL Championships, including one Super Bowl.",
+                    "The Chicago Bears play at Soldier Field."
+                ],
+                "cincinnati bengals": [
+                    "The Cincinnati Bengals were founded in 1968.",
+                    "The team has reached the Super Bowl three times.",
+                    "The Cincinnati Bengals play at Paycor Stadium."
+                ],
+                "cleveland browns": [
+                    "The Cleveland Browns were founded in 1946.",
+                    "The team has won 4 NFL Championships before the Super Bowl era.",
+                    "The Cleveland Browns play at FirstEnergy Stadium."
+                ],
+                "dallas cowboys": [
+                    "The Dallas Cowboys were founded in 1960.",
+                    "The team has won 5 Super Bowls.",
+                    "The Dallas Cowboys play at AT&T Stadium."
+                ],
+                "denver broncos": [
+                    "The Denver Broncos were founded in 1960.",
+                    "The team has won 3 Super Bowls.",
+                    "The Denver Broncos play at Empower Field at Mile High."
+                ],
+                "detroit lions": [
+                    "The Detroit Lions were founded in 1930.",
+                    "The team has won 4 NFL Championships before the Super Bowl era.",
+                    "The Detroit Lions play at Ford Field."
+                ],
+                "green bay packers": [
+                    "The Green Bay Packers were founded in 1919.",
+                    "The team has won 13 NFL Championships, including 4 Super Bowls.",
+                    "The Green Bay Packers play at Lambeau Field."
+                ],
+                "houston texans": [
+                    "The Houston Texans were founded in 2002.",
+                    "The team is the youngest franchise in the NFL.",
+                    "The Houston Texans play at NRG Stadium."
+                ],
+                "indianapolis colts": [
+                    "The Indianapolis Colts were founded in 1953 as the Baltimore Colts.",
+                    "The team has won 2 Super Bowls.",
+                    "The Indianapolis Colts play at Lucas Oil Stadium."
+                ],
+                "jacksonville jaguars": [
+                    "The Jacksonville Jaguars were founded in 1993.",
+                    "The team reached the AFC Championship Game three times.",
+                    "The Jacksonville Jaguars play at TIAA Bank Field."
+                ],
+                "kansas city chiefs": [
+                    "The Kansas City Chiefs were founded in 1960 as the Dallas Texans.",
+                    "The team has won 3 Super Bowls.",
+                    "The Kansas City Chiefs play at Arrowhead Stadium."
+                ],
+                "las vegas raiders": [
+                    "The Las Vegas Raiders were founded in 1960 as the Oakland Raiders.",
+                    "The team has won 3 Super Bowls.",
+                    "The Las Vegas Raiders play at Allegiant Stadium."
+                ],
+                "los angeles chargers": [
+                    "The Los Angeles Chargers were founded in 1960.",
+                    "The team has appeared in one Super Bowl.",
+                    "The Los Angeles Chargers play at SoFi Stadium."
+                ],
+                "los angeles rams": [
+                    "The Los Angeles Rams were founded in 1936.",
+                    "The team has won 2 Super Bowls.",
+                    "The Los Angeles Rams play at SoFi Stadium."
+                ],
+                "miami dolphins": [
+                    "The Miami Dolphins were founded in 1965.",
+                    "The team won back-to-back Super Bowls in 1972 and 1973.",
+                    "The Miami Dolphins play at Hard Rock Stadium."
+                ],
+                "minnesota vikings": [
+                    "The Minnesota Vikings were founded in 1960.",
+                    "The team has appeared in four Super Bowls.",
+                    "The Minnesota Vikings play at U.S. Bank Stadium."
+                ],
+                "new england patriots": [
+                    "The New England Patriots were founded in 1959.",
+                    "The team has won 6 Super Bowls.",
+                    "The New England Patriots play at Gillette Stadium."
+                ],
+                "new orleans saints": [
+                    "The New Orleans Saints were founded in 1967.",
+                    "The team won their first Super Bowl in 2009.",
+                    "The New Orleans Saints play at Caesars Superdome."
+                ],
+                "new york giants": [
+                    "The New York Giants were founded in 1925.",
+                    "The team has won 4 Super Bowls.",
+                    "The New York Giants play at MetLife Stadium."
+                ],
+                "new york jets": [
+                    "The New York Jets were founded in 1959.",
+                    "The team won Super Bowl III in 1969.",
+                    "The New York Jets play at MetLife Stadium."
+                ],
+                "philadelphia eagles": [
+                    "The Philadelphia Eagles were founded in 1933.",
+                    "The team has won one Super Bowl.",
+                    "The Philadelphia Eagles play at Lincoln Financial Field."
+                ],
+                "pittsburgh steelers": [
+                    "The Pittsburgh Steelers were founded in 1933.",
+                    "The team has won 6 Super Bowls.",
+                    "The Pittsburgh Steelers play at Heinz Field."
+                ],
+                "san francisco 49ers": [
+                    "The San Francisco 49ers were founded in 1946.",
+                    "The team has won 5 Super Bowls.",
+                    "The San Francisco 49ers play at Levi's Stadium."
+                ],
+                "seattle seahawks": [
+                    "The Seattle Seahawks were founded in 1974.",
+                    "The team has won one Super Bowl.",
+                    "The Seattle Seahawks play at Lumen Field."
+                ],
+                "tampa bay buccaneers": [
+                    "The Tampa Bay Buccaneers were founded in 1976.",
+                    "The team has won 2 Super Bowls.",
+                    "The Tampa Bay Buccaneers play at Raymond James Stadium."
+                ],
+                "tennessee titans": [
+                    "The Tennessee Titans were founded in 1960 as the Houston Oilers.",
+                    "The team relocated to Tennessee in 1997.",
+                    "The Tennessee Titans play at Nissan Stadium."
+                ],
+                "washington commanders": [
+                    "The Washington Commanders were founded in 1932 as the Boston Braves.",
+                    "The team has won 3 Super Bowls.",
+                    "The Washington Commanders play at FedExField."
+                ]
+            }
+        },
+        "basketball": {
+            "teams": {
+                "atlanta hawks": [
+                    "The Atlanta Hawks were founded in 1946.",
+                    "The team has won one NBA Championship.",
+                    "The Atlanta Hawks play at State Farm Arena."
+                ],
+                "boston celtics": [
+                    "The Boston Celtics were founded in 1946.",
+                    "The team has won 17 NBA Championships.",
+                    "The Boston Celtics play at TD Garden."
+                ],
+                "brooklyn nets": [
+                    "The Brooklyn Nets were founded in 1967.",
+                    "The team has reached the NBA Finals twice.",
+                    "The Brooklyn Nets play at Barclays Center."
+                ],
+                "charlotte hornets": [
+                    "The Charlotte Hornets were founded in 1988.",
+                    "The team is based in Charlotte, North Carolina.",
+                    "The Charlotte Hornets play at Spectrum Center."
+                ],
+                "chicago bulls": [
+                    "The Chicago Bulls were founded in 1966.",
+                    "The team has won 6 NBA Championships.",
+                    "The Chicago Bulls play at United Center."
+                ],
+                "cleveland cavaliers": [
+                    "The Cleveland Cavaliers were founded in 1970.",
+                    "The team won their first NBA Championship in 2016.",
+                    "The Cleveland Cavaliers play at Rocket Mortgage FieldHouse."
+                ],
+                "dallas mavericks": [
+                    "The Dallas Mavericks were founded in 1980.",
+                    "The team won their first NBA Championship in 2011.",
+                    "The Dallas Mavericks play at American Airlines Center."
+                ],
+                "denver nuggets": [
+                    "The Denver Nuggets were founded in 1967.",
+                    "The team was originally part of the ABA.",
+                    "The Denver Nuggets play at Ball Arena."
+                ],
+                "detroit pistons": [
+                    "The Detroit Pistons were founded in 1941.",
+                    "The team has won 3 NBA Championships.",
+                    "The Detroit Pistons play at Little Caesars Arena."
+                ],
+                "golden state warriors": [
+                    "The Golden State Warriors were founded in 1946.",
+                    "The team has won 7 NBA Championships.",
+                    "The Golden State Warriors play at Chase Center."
+                ],
+                "houston rockets": [
+                    "The Houston Rockets were founded in 1967.",
+                    "The team has won 2 NBA Championships.",
+                    "The Houston Rockets play at Toyota Center."
+                ],
+                "indiana pacers": [
+                    "The Indiana Pacers were founded in 1967.",
+                    "The team was originally part of the ABA.",
+                    "The Indiana Pacers play at Gainbridge Fieldhouse."
+                ],
+                "los angeles clippers": [
+                    "The Los Angeles Clippers were founded in 1970.",
+                    "The team has never won an NBA Championship.",
+                    "The Los Angeles Clippers play at Crypto.com Arena."
+                ],
+                "los angeles lakers": [
+                    "The Los Angeles Lakers were founded in 1947.",
+                    "The team has won 17 NBA Championships.",
+                    "The Los Angeles Lakers play at Crypto.com Arena."
+                ],
+                "memphis grizzlies": [
+                    "The Memphis Grizzlies were founded in 1995.",
+                    "The team was originally based in Vancouver.",
+                    "The Memphis Grizzlies play at FedExForum."
+                ],
+                "miami heat": [
+                    "The Miami Heat were founded in 1988.",
+                    "The team has won 3 NBA Championships.",
+                    "The Miami Heat play at FTX Arena."
+                ],
+                "milwaukee bucks": [
+                    "The Milwaukee Bucks were founded in 1968.",
+                    "The team has won 2 NBA Championships.",
+                    "The Milwaukee Bucks play at Fiserv Forum."
+                ],
+                "minnesota timberwolves": [
+                    "The Minnesota Timberwolves were founded in 1989.",
+                    "The team is based in Minneapolis, Minnesota.",
+                    "The Minnesota Timberwolves play at Target Center."
+                ],
+                "new orleans pelicans": [
+                    "The New Orleans Pelicans were founded in 2002.",
+                    "The team was originally named the New Orleans Hornets.",
+                    "The New Orleans Pelicans play at Smoothie King Center."
+                ],
+                "new york knicks": [
+                    "The New York Knicks were founded in 1946.",
+                    "The team has won 2 NBA Championships.",
+                    "The New York Knicks play at Madison Square Garden."
+                ],
+                "oklahoma city thunder": [
+                    "The Oklahoma City Thunder were founded in 1967 as the Seattle SuperSonics.",
+                    "The team relocated to Oklahoma City in 2008.",
+                    "The Oklahoma City Thunder play at Paycom Center."
+                ],
+                "orlando magic": [
+                    "The Orlando Magic were founded in 1989.",
+                    "The team has reached the NBA Finals twice.",
+                    "The Orlando Magic play at Amway Center."
+                ],
+                "philadelphia 76ers": [
+                    "The Philadelphia 76ers were founded in 1946.",
+                    "The team has won 3 NBA Championships.",
+                    "The Philadelphia 76ers play at Wells Fargo Center."
+                ],
+                "phoenix suns": [
+                    "The Phoenix Suns were founded in 1968.",
+                    "The team has reached the NBA Finals three times.",
+                    "The Phoenix Suns play at Footprint Center."
+                ],
+                "portland trail blazers": [
+                    "The Portland Trail Blazers were founded in 1970.",
+                    "The team won their first NBA Championship in 1977.",
+                    "The Portland Trail Blazers play at Moda Center."
+                ],
+                "sacramento kings": [
+                    "The Sacramento Kings were founded in 1923.",
+                    "The team has won one NBA Championship.",
+                    "The Sacramento Kings play at Golden 1 Center."
+                ],
+                "san antonio spurs": [
+                    "The San Antonio Spurs were founded in 1967.",
+                    "The team has won 5 NBA Championships.",
+                    "The San Antonio Spurs play at AT&T Center."
+                ],
+                "toronto raptors": [
+                    "The Toronto Raptors were founded in 1995.",
+                    "The team won their first NBA Championship in 2019.",
+                    "The Toronto Raptors play at Scotiabank Arena."
+                ],
+                "utah jazz": [
+                    "The Utah Jazz were founded in 1974 as the New Orleans Jazz.",
+                    "The team relocated to Utah in 1979.",
+                    "The Utah Jazz play at Vivint Arena."
+                ],
+                "washington wizards": [
+                    "The Washington Wizards were founded in 1961.",
+                    "The team won their only NBA Championship in 1978.",
+                    "The Washington Wizards play at Capital One Arena."
+                ]
+            }
+        },
+        "baseball": {
+            "teams": {
+                "arizona diamondbacks": [
+                    "The Arizona Diamondbacks were founded in 1998.",
+                    "The team won their first World Series in 2001.",
+                    "The Arizona Diamondbacks play at Chase Field."
+                ],
+                "atlanta braves": [
+                    "The Atlanta Braves were founded in 1871.",
+                    "The team has won 4 World Series titles.",
+                    "The Atlanta Braves play at Truist Park."
+                ],
+                "baltimore orioles": [
+                    "The Baltimore Orioles were founded in 1901.",
+                    "The team has won 3 World Series titles.",
+                    "The Baltimore Orioles play at Oriole Park at Camden Yards."
+                ],
+                "boston red sox": [
+                    "The Boston Red Sox were founded in 1901.",
+                    "The team has won 9 World Series titles.",
+                    "The Boston Red Sox play at Fenway Park."
+                ],
+                "chicago white sox": [
+                    "The Chicago White Sox were founded in 1900.",
+                    "The team has won 3 World Series titles.",
+                    "The Chicago White Sox play at Guaranteed Rate Field."
+                ],
+                "chicago cubs": [
+                    "The Chicago Cubs were founded in 1876.",
+                    "The team has won 3 World Series titles.",
+                    "The Chicago Cubs play at Wrigley Field."
+                ],
+                "cincinnati reds": [
+                    "The Cincinnati Reds were founded in 1881.",
+                    "The team has won 5 World Series titles.",
+                    "The Cincinnati Reds play at Great American Ball Park."
+                ],
+                "cleveland guardians": [
+                    "The Cleveland Guardians were founded in 1894.",
+                    "The team has won 2 World Series titles.",
+                    "The Cleveland Guardians play at Progressive Field."
+                ],
+                "colorado rockies": [
+                    "The Colorado Rockies were founded in 1993.",
+                    "The team has never won a World Series.",
+                    "The Colorado Rockies play at Coors Field."
+                ],
+                "detroit tigers": [
+                    "The Detroit Tigers were founded in 1894.",
+                    "The team has won 4 World Series titles.",
+                    "The Detroit Tigers play at Comerica Park."
+                ],
+                "houston astros": [
+                    "The Houston Astros were founded in 1962.",
+                    "The team has won 2 World Series titles.",
+                    "The Houston Astros play at Minute Maid Park."
+                ],
+                "kansas city royals": [
+                    "The Kansas City Royals were founded in 1969.",
+                    "The team has won 2 World Series titles.",
+                    "The Kansas City Royals play at Kauffman Stadium."
+                ],
+                "los angeles angels": [
+                    "The Los Angeles Angels were founded in 1961.",
+                    "The team has won one World Series title.",
+                    "The Los Angeles Angels play at Angel Stadium."
+                ],
+                "los angeles dodgers": [
+                    "The Los Angeles Dodgers were founded in 1883.",
+                    "The team has won 7 World Series titles.",
+                    "The Los Angeles Dodgers play at Dodger Stadium."
+                ],
+                "miami marlins": [
+                    "The Miami Marlins were founded in 1993.",
+                    "The team has won 2 World Series titles.",
+                    "The Miami Marlins play at loanDepot park."
+                ],
+                "milwaukee brewers": [
+                    "The Milwaukee Brewers were founded in 1969.",
+                    "The team has never won a World Series.",
+                    "The Milwaukee Brewers play at American Family Field."
+                ],
+                "minnesota twins": [
+                    "The Minnesota Twins were founded in 1901.",
+                    "The team has won 3 World Series titles.",
+                    "The Minnesota Twins play at Target Field."
+                ],
+                "new york yankees": [
+                    "The New York Yankees were founded in 1901.",
+                    "The team has won 27 World Series titles.",
+                    "The New York Yankees play at Yankee Stadium."
+                ],
+                "new york mets": [
+                    "The New York Mets were founded in 1962.",
+                    "The team has won 2 World Series titles.",
+                    "The New York Mets play at Citi Field."
+                ],
+                "oakland athletics": [
+                    "The Oakland Athletics were founded in 1901.",
+                    "The team has won 9 World Series titles.",
+                    "The Oakland Athletics play at RingCentral Coliseum."
+                ],
+                "philadelphia phillies": [
+                    "The Philadelphia Phillies were founded in 1883.",
+                    "The team has won 2 World Series titles.",
+                    "The Philadelphia Phillies play at Citizens Bank Park."
+                ],
+                "pittsburgh pirates": [
+                    "The Pittsburgh Pirates were founded in 1882.",
+                    "The team has won 5 World Series titles.",
+                    "The Pittsburgh Pirates play at PNC Park."
+                ],
+                "san diego padres": [
+                    "The San Diego Padres were founded in 1969.",
+                    "The team has never won a World Series.",
+                    "The San Diego Padres play at Petco Park."
+                ],
+                "san francisco giants": [
+                    "The San Francisco Giants were founded in 1883.",
+                    "The team has won 8 World Series titles.",
+                    "The San Francisco Giants play at Oracle Park."
+                ],
+                "seattle mariners": [
+                    "The Seattle Mariners were founded in 1977.",
+                    "The team has never won a World Series.",
+                    "The Seattle Mariners play at T-Mobile Park."
+                ],
+                "st. louis cardinals": [
+                    "The St. Louis Cardinals were founded in 1882.",
+                    "The team has won 11 World Series titles.",
+                    "The St. Louis Cardinals play at Busch Stadium."
+                ],
+                "tampa bay rays": [
+                    "The Tampa Bay Rays were founded in 1998.",
+                    "The team has never won a World Series.",
+                    "The Tampa Bay Rays play at Tropicana Field."
+                ],
+                "texas rangers": [
+                    "The Texas Rangers were founded in 1961.",
+                    "The team has won one World Series title.",
+                    "The Texas Rangers play at Globe Life Field."
+                ],
+                "toronto blue jays": [
+                    "The Toronto Blue Jays were founded in 1977.",
+                    "The team has won 2 World Series titles.",
+                    "The Toronto Blue Jays play at Rogers Centre."
+                ],
+                "washington nationals": [
+                    "The Washington Nationals were founded in 1969.",
+                    "The team won their first World Series in 2019.",
+                    "The Washington Nationals play at Nationals Park."
+                ]
+            }
+        }
+    }
+}

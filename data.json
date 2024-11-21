@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "auth": "",
+            "username": "admin",
+            "password": "admin",
+            "bench": "0",
+            "squat": "0",
+            "deadlift": "0",
+            "program": "none"
+        },
+        {
+            "auth": "",
+            "username": "shrek",
+            "password": "donkey",
+            "bench": 315,
+            "squat": 405,
+            "deadlift": 500,
+            "program": "Thunder Pump"
+        },
+        {
+            "auth": "",
+            "username": "doughnuts",
+            "password": "coffee",
+            "bench": 400,
+            "squat": 500,
+            "deadlift": 600,
+            "program": "Skinny Jeans"
+        },
+        {
+            "auth": "",
+            "username": "blanco",
+            "password": "roja",
+            "bench": 200,
+            "squat": 300,
+            "deadlift": 400,
+            "program": "start new"
+        }
+    ]
+}
